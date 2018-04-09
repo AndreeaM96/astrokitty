@@ -1,3 +1,5 @@
+**FOLDERUL "Tema 1" TREBUIE PUS IN FOLDERUL "Source" DIN ARHIVA DIN "utils"**
+
 Geometrie:
 Astronaut: triunghi echilateral verde
 Platforma de stationare: dreptunghi rosu
