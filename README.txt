@@ -9,6 +9,10 @@ Asteroid1: cerc galben cu rotatie
 Asteroid2: cerc mov cu translatie
 Asteroid3: cerc roz cu scalare
 
+Scopul jocului:
+Aterizarea astronautului pe platforma finala. Astronautul este controlat cu click, el miscandu-se in directia in care s-a dat click.
+
+
 Marginile ferestrei le-am considerat drept platfome de stationare. Cand astronautul ar iesi din fereastra, este
 asezat pe margine si orientat corespunzator.
 
